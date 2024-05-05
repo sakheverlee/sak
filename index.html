@@ -13,15 +13,28 @@ table, th, td {
   min-height: 100%;
 }
 
+.content {
+  position: fixed;
+  top: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+  
 </style>
  
 </head>
+
 <body style="background-color:powderblue;">
+  
 <video autoplay muted loop id="Video">
   <source src="background_01.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
-  
+
+<div class="content">
  <table>
   <thead>    
     <tr> <th scope="col">Datum</th> <th scope="col">Lied</th>  </tr> 
@@ -71,4 +84,5 @@ table, th, td {
     <tr> <td>2024-05</td> <td> <a href=./1775_TenHemelOpgevaren.html>       1775_TenHemelOpgevaren.html         </a>  </td>  </tr> 
   </tbody>
  </table>
+</div>  
 </body>
