@@ -21,13 +21,14 @@
 </head>
 
 <body style="background-color:powderblue;">
-   <p id = "savedate"></p>
+   <p id = "result"></p>
+   
    <script>
-      var d = document.lastModified;
-      document.getElementById("savedate").innerHTML = "<H1> Versie : " + d + "</H1>" ; 
+      var docDate = document.lastModified;
+      var versionDate = new Date(docDate);
+      var formattedVersionDate = versionDate.toDateString()
+      document.getElementById("result").innerHTML = "<H1> CORIA FILES (Versie : " + formattedVersionDate + ")</H1>" ;
    </script>
-  
-<H1> CORIA FILES </H1>
 <p> <img src="./quaver.svg"        width="20" height="20">    <a href=./0025_Sanctus.html>                       0025_Sanctus.html                      </a> 
 <p> <img src="./quaver.svg"        width="20" height="20">    <a href=./0035_KwaadEnZorgen.html>                 0035_KwaadEnZorgen.html                </a> 
 <p> <img src="./quaver.svg"        width="20" height="20">    <a href=./0041_Pelgrimslied.html>                  0041_Pelgrimslied.html                 </a> 
