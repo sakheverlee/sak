@@ -141,7 +141,7 @@ let dataFarde = [
 [ '1655' ,'<a href=./1655_Het_lied_van_samen.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Het lied van samen ' ], 
 [ '1658' ,'<a href=./1658_HoorDeHerders.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Hoor de herders ' ], 
 [ '1660' ,'<a href=./1660_Kerstzegen.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kerstzegen' ], 
-[ '1670',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=Kkz_14GR_D8> <img src="./world-wide-web.png" width="20" height="20"> </a>', '' , 'Jezus diep in de woestijn'       ]
+[ '1670',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=Kkz_14GR_D8> <img src="./world-wide-web.png" width="20" height="20"> </a>', '' , 'Jezus diep in de woestijn'       ],
 [ '1702' ,'<a href=./1702_AlsInTBrood.html><img src="./quaver.svg"width="20" height="20"></img></a>',' <a href=./SAK_1702-4_AlsInTBrood.pdf><img src="./Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Als in het brood' ],
 [ '1703' ,'<a href=./1703_KijkVooruit.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kijk vooruit ' ], 
 [ '1705' ,'<a href=./1705_IkZoekEenLand.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Ik zoek een land' ], 
