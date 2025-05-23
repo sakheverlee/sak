@@ -60,9 +60,7 @@ let dataFarde = [
 [ '0392' ,'<a href=./0392_SoliDeoGloria.html><img src="./quaver.svg"width="20" height="20"></img></a>',' <a href=./SAK_0932-4_SoliDeoGloria.pdf><img src="./Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Soli Deo Gloria ' ], 
 [ '0393' ,'<a href=./0393_Mens_voor_de_mensen_zijn.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Mens voor de mensen zijn ' ], 
 [ '0395' ,'<a href=./0395_ChristusOnzeHeerVerrees.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Christus onze Heer verrees' ], 
-
-[ '0398','','<a href=./SAK_0398-4_ForTheBeautyOfTheEarth_koor+piano.pdf><img src="./world-wide-web.png" width="20" height="20"></img> </a>','' ,'', 'for the beauty of the earth' ], 
-[ '0398','','<a href=https://www.koorpartij-oefening.nl/oefenbestand-for-the-beauty-of-the-earth.html> <img src="./world-wide-web.png" width="20" height="20"></img> </a>','' ,'', 'for the beauty of the earth' ], 
+[ '0398' ,'<a href=./0398_ForTheBeautyOfTheEarth.html><img src="./quaver.svg"width="20" height="20"></img></a>','<a href=./SAK_0398-4_ForTheBeautyOfTheEarth.pdf><img src="./Icon_PDF.png"width="20" height="20"></img> </a>','<a href=https://www.koorpartij-oefening.nl/oefenbestand-for-the-beauty-of-the-earth.html> <img src="./world-wide-web.png" width="20" height="20"></img> </a>' ,'', 'For the beauty of the earth (John Rutter)' ], 
 [ '0402' ,'<a href=./0402_WeesHierAanwezig.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Wees hier aanwezig ' ], 
 [ '0404' ,'<a href=./0404_DatUwWoordenInOnsBranden.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Dat uw woorden in ons branden' ], 
 [ '0412' ,'<a href=./0412_WaarMensenElkaarDragen.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Waar mensen elkaar dragen' ], 
@@ -143,6 +141,7 @@ let dataFarde = [
 [ '1655' ,'<a href=./1655_Het_lied_van_samen.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Het lied van samen ' ], 
 [ '1658' ,'<a href=./1658_HoorDeHerders.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Hoor de herders ' ], 
 [ '1660' ,'<a href=./1660_Kerstzegen.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kerstzegen' ], 
+[ '1670',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=Kkz_14GR_D8> <img src="./world-wide-web.png" width="20" height="20"> </a>', '' , 'Jezus diep in de woestijn'       ]
 [ '1702' ,'<a href=./1702_AlsInTBrood.html><img src="./quaver.svg"width="20" height="20"></img></a>',' <a href=./SAK_1702-4_AlsInTBrood.pdf><img src="./Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Als in het brood' ],
 [ '1703' ,'<a href=./1703_KijkVooruit.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kijk vooruit ' ], 
 [ '1705' ,'<a href=./1705_IkZoekEenLand.html><img src="./quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Ik zoek een land' ], 
