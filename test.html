@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">  
+<style>
+
+  a:link { 
+  color: blue;
+}
+  
+  a:visited {
+  color: purple;
+}
+
+  a:hover, a:active {
+  color: red;
+}
+
+table { border-collapse: collapse; }
+tr { border: 1px solid #dfdfdf; }
+th, td { padding: 4px;}
+
+</style>
+
+</head>
+
+<body style="background-color:powderblue;">
+   <p id = "result"></p>
+   <script>
+      var docDate = document.lastModified;
+      var versionDate = new Date(docDate);
+      var formattedVersionDate = versionDate.toDateString()
+      document.getElementById("result").innerHTML = "<H1> CORIA FILES (Versie : " + formattedVersionDate + ")</H1>" ;
+   </script>
+
+        <script src="./script.js"></script>
+
+<hr>  
+<H3>01 juni 2025 </H3>
+<hr> 
+
+        <script src="./script20250601.js"></script>
+ 
+<hr>  
+<H3>ZINGT JUBILATE </H3>
+<hr> 
+        <script src="./scriptZJ.js"></script>
+
+<hr>  
+<H3>Farde</H3>  
+<hr> 
+        <script src="./scriptFarde.js"></script>
+
+<hr>  
+<H3>Andere</H3>  
+<hr> 
+        <script src="./scriptAnder.js"></script>
+
+    </body>
+
+</html>
