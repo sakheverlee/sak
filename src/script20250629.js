@@ -2,7 +2,7 @@ let data20250629 = [
     ['nummer', 'strofen',       'coria ',                                                                                          'pdf' , 'web' , 'mp3' , 'titel' ],
     ['0478', '1-2-3',   '<a href=coria/0478_Danklied.html>                   <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Danklied'                             ],
     ['0384', 'alles',   '',  ' ', ' ' , '' , 'Mokonzi in het Nederlands'            ],
-    ['0731', '1-2-3',   '',  ' ', ' ' , '' , 'Zing voor de Heer                     ],
+    ['0731', '1-2-3',   '',  ' ', ' ' , '' , 'Zing voor de Heer'                    ],
     ['0865', '1-2',     '',  ' ', ' ' , '' , 'Heb dank'                             ],
     ['1609', 'alles',   '<a href=coria/1609_Dank_U_Heer.html>                <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Dank u Heer'                          ],
     ['0539', 'alles',   '',  ' ', ' ' , '' , 'Heilig'                               ],
