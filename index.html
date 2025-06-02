@@ -27,18 +27,33 @@ th, td { padding: 4px;}
 <body style="background-color:powderblue;">
    <p id = "result"></p>
 
-   <script> src="src/scriptDate.js"></script>
+   <script>
+      var docDate = document.lastModified;
+      var versionDate = new Date(docDate);
+      var formattedVersionDate = versionDate.toDateString()
+      document.getElementById("result").innerHTML = "<H1> CORIA FILES (Versie : " + formattedVersionDate + ")</H1>" ;
+   </script>
 
    <script src="src/script.js"></script>
 
-<!-- 
 <hr>  
-<H3>01 juni 2025 </H3>
+<H3>15 juni 2025 </H3>
 <hr> 
 
-   <script src="src/script20250601.js"></script>
- -->
- 
+   <script src="src/script20250615.js"></script>
+
+<hr>  
+<H3>22 juni 2025 </H3>
+<hr> 
+
+   <script src="src/script20250622.js"></script>
+
+<hr>  
+<H3>29 juni 2025 </H3>
+<hr> 
+
+   <script src="src/script20250629.js"></script>
+  
 <hr>  
 <H3>ZINGT JUBILATE </H3>
 <hr> 
