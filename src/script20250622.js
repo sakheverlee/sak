@@ -1,6 +1,6 @@
 let data20250622 = [
     ['nummer', 'strofen',       'coria ',                                                                                           'pdf' , 'web' , 'mp3' , 'titel' ],
-    ['0001', '1-2-4',   '<a href=coria/0001_WieGodsRechteWegenGaat.html>     <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', '<a https://www.youtube.com/watch?v=v_ryzBavlQA>      <img src="src/world-wide-web.png" width="20" height="20"> </a>' , '' , 'Wie Gods rechte wegen gaat (ZJ 936)'           ],
+    ['0001', '1-2-4',   '<a href=coria/0001_WieGodsRechteWegenGaat.html>     <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', '<a href=https://www.youtube.com/watch?v=v_ryzBavlQA>      <img src="src/world-wide-web.png" width="20" height="20"> </a>' , '' , 'Wie Gods rechte wegen gaat (ZJ 936)'           ],
     ['1799', 'alles',   '<a href=coria/1799_Toon_ons_uw_Zoon.html>           <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Toon ons uw zoon'                     ],
     ['0112', 'alles',   '<a href=coria/0112_GloriaSeiDirGesungen.html>       <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Gloria sei dir gesungen'              ],
     ['0373', '1-4-5',   '<a href=coria/0373_ZONNELIED_VAN_FRANCISCUS.html>   <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Zonnelied van Franciscus verdwijnen'  ],
