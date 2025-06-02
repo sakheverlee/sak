@@ -1,5 +1,5 @@
 let data20250622 = [
-    ['nummer', 'strofen',       'coria ',                                                                                          'pdf' , 'web' , 'mp3' , 'titel' ],
+    ['nummer', 'strofen',       'coria ',                                                                                           'pdf' , 'web' , 'mp3' , 'titel' ],
     ['0001', '1-2-4',   '',  ' ', ' ' , '' , 'Wie Gods rechte wegen gaat'           ],
     ['1799', 'alles',   '<a href=coria/1799_Toon_ons_uw_Zoon.html>           <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Toon ons uw zoon'                     ],
     ['0112', 'alles',   '<a href=coria/0112_GloriaSeiDirGesungen.html>       <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Gloria sei dir gesungen'              ],
