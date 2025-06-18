@@ -102,6 +102,7 @@ let dataFarde = [
 [ '0633' ,'<a href=coria/0633_HeerOntfermUOverOns.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Heer ontferm U over ons' ], 
 [ '0704' ,'<a href=coria/0704_LevenInOvervloed.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0704-4_LevenInOvervloed.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Leven in overvloed ' ],
 [ '0710' ,'<a href=coria/0710_BroodOpTafel.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Brood op tafel' ], 
+[ '0731' ,'<a href=coria/0731_ZingVoorDeHeer.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0731-3_ZingVoorDeHeer.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Zing voor de Heer' ], 
 [ '0736' ,'<a href=coria/0736_AlsTussenLichtEnDonker.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Als tussen licht en donker' ], 
 [ '0746' ,'<a href=coria/0746_DoorDeLiefdeLaatUWekken.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Door de liefde laat U wekken' ], 
 [ '0769' ,'<a href=coria/0769_KwamVanGodswege.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kwam van godswege' ], 
