@@ -3,7 +3,7 @@ let data20250914 = [
     ['1606', '1-2-3',   '<a href=coria/1606_God_met_mij_op_alle_wegen.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'God met mij op alle wegen'                             ],
     ['1799', '1-2-3',   '<a href=coria/1799_Toon_ons_uw_Zoon.html>           <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Toon ons uw Zoon'            ],
     ['0166', 'alles',   '',  ' ', ' ' , '' , 'Eert God die onze Vader is'                    ],
-    ['0560', '1-2',     '',  ' ', ' ' , '' , 'Heb Al heeft Hij ons verlaten'                             ],
+    ['0560', '1-2',     '',  ' ', ' ' , '' , 'Al heeft Hij ons verlaten'                             ],
     ['0381', 'alles',   '<a href=coria/0381_Thuma_Mina.html>                 <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Rond uw woord (Thuma mina)'                          ],
     ['0549', 'alles',   '<a href=coria/0549_LaudateOmnesGentes.html>         <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Lauate omnes gentes'                               ],
     ['0169', 'alles',   '<a href=coria/0169_DonaLaPace.html>                 <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Dona la pace, Signore'              ],
