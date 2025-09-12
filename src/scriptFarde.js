@@ -94,6 +94,7 @@ let dataFarde = [
 [ '0544' ,'<a href=coria/0544_AveMaria.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Ave Maria ' ], 
 [ '0549' ,'<a href=coria/0549_LaudateOmnesGentes.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0549-4_LaudateOmnesGentes.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Laudate omnes gentes' ],
 [ '0551' ,'<a href=coria/0551_GIJ_DIE_VOOR_ALLE_MENSEN.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Gij die voor alle mensen ' ], 
+[ '0560' ,'<a href=coria/0560_AlHeeftHijOnsVerlaten.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Al heeft Hij ons verlaten (ZJ 412) ' ], 
 [ '0587' ,'<a href=coria/0587_EerAanGodInDenHoge.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0587-4_EerAanGodInDenHoge.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Eer aan God in den hoge' ],
 [ '0589' ,'<a href=coria/0589_GloryBeToGodTheFather.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Glory be to God the father' ], 
 [ '0598' ,'<a href=coria/0598_HetLiedVanHetWater.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0598-4_HetLiedVanHetWater.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Het lied van het water' ],
