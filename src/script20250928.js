@@ -9,7 +9,7 @@ let data20250928 = [
     ['1612', '1',       '<a href=coria/1612_Vrede_van_God.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Vrede van God'                        ],
     ['1735', '1-2-3',   '<a href=coria/missing.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'ONTBREEKT: De hemel is voor iedereen'            ],
     ['1484', 'alles',   '<a href=coria/1484_OpdatUwDroom.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Opdat uw droom'                       ],
-    ['1944', '1-2',     '<a href=coria/missing.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'ONTBREEKT: Wat zou de wereld anders zijn'        ]
+    ['1656', '1-2-3',   '<a href=coria/missing.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'ONTBREEKT: Wat zou de wereld anders zijn'        ]
 ];
           
 function createTable(data20250928) {
