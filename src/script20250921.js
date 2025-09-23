@@ -9,7 +9,7 @@ let data20250921 = [
     ['0877', 'alles',   '<a href=coria/0877_ZingNuDitLied.html>                 <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Zing nu dit lied'              ],
     ['0882', '1-2-3',   '',  ' ', ' ' , '' , 'Zal er ooit een dag van vrede (nieuw)'                   ],
     ['0300', 'alles',   '<a href=coria/0300_LuisterHeer.html>               <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Luister Heer'            ],
-    ['1944', '1-2',     '',  ' ', ' ' , '' , 'Jesus Christ, you are my life'                   ]
+    ['1914', '1-2',     '',  ' ', ' ' , '' , 'Jesus Christ, you are my life'                   ]
 ];
           
 function createTable(data20250921) {
