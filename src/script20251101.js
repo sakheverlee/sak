@@ -7,7 +7,7 @@ let data20251101 = [
     ['1801', 'alles',   '<a href=coria/1801_Gelukkig.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Gelukkig'  ],
     ['0539', 'alles',   '<a href=coria/0539_Heilig.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Heilig'                      ],
     ['1176', 'alles',   '',  ' ', ' ' , '' , 'ONTBREEKT: Ubi caritas'                        ],
-    ['0385', '1-2-3',   '',  ' ', ' ' , '' , 'ONTBREEKT: Tel uw herinneringen'                        ],
+    ['0385', '1-2-3',   '<a href=coria/0385_TelUwHerinneringen.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Tel uw herinneringen'                        ],
     ['0608', 'alles',   '<a href=coria/0608_GezongenGebedsrefrein.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Laat ons bidden'                       ],
     ['1902', '1-2',     '<a href=coria/1902_TheRoadGoesEverOnAndOn.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'The road goes ever on and on'        ]
 ];
