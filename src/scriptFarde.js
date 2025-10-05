@@ -49,6 +49,7 @@ let dataFarde = [
 [ '0349' ,'<a href=coria/0349_LichtInOnzeOgen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Lichtin onze ogen' ], 
 [ '0351' ,'<a href=coria/0351_Eer_aan_onze_God.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0351-4_EerAanOnzeGod.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Eer aan onze God' ],
 [ '0355' ,'<a href=coria/0355_GegroetJijDieHierKomtOmLicht.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Gegroet jij die hier komt om licht' ], 
+[ '0358' ,'<a href=coria/0385_TelUwHerinneringen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0385-4_TelUwHerinneringen.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Tel uw herinneringen' ],
 [ '0359' ,'<a href=coria/0359_KleinPaaslied.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0359-4_KleinPaaslied.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Klein Paaslied' ],
 [ '0361' ,'<a href=coria/0361_StemVanVuur.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0361-4_StemVanVuur.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Stem van vuur' ],
 [ '0362' ,'<a href=coria/0362_OmdatHijLeeft.html><img src="src/quaver.svg"width="20" height="20"></img></a>','','' ,'', 'Omdat hij leeft ' ],
