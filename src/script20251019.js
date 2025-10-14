@@ -3,7 +3,7 @@ let data20251019 = [
     ['1606', '1-2-3',   '<a href=coria/1606_God_met_mij_op_alle_wegen.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'God met mij op alle wegen'                       ],
     ['0540', 'alles',   '<a href=coria/0540_GebedOmVergeving.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Gebed om vergeving'                      ],
     ['1424', '1-2',     '<a href=coria/1424_GloriaGloria.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Gloria'              ],
-    ['1132', '1-2-3',   '',  ' ', ' ' , '' , 'ONTBREEKT: Als gij naar de woorden luistert'      ],
+    ['1132', '1-2-3',   '<a href=coria/1132_AlsGijNaarDeWoordenLuistert.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Als gij naar de woorden luistert'      ],
     ['0381', 'alles',   '<a href=coria/0381_Thuma_Mina.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Rond uw woord'  ],
     ['0377', 'alles',   '<a href=coria/0377_AllesWatUPrijzenKan.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Alles wat u prijzen kan'                      ],
     ['1612', '1',       '<a href=coria/1612_Vrede_van_God.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Vrede van God'                        ],
