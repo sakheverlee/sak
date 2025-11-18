@@ -14,7 +14,7 @@ let data20251123 = [
 ];
           
 function createTable(data20251123) {
-  const [headings, ...rows] = data20250601;
+  const [headings, ...rows] = data20251123;
       
     return `
           <table>
