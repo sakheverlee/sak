@@ -9,7 +9,7 @@ let data20251123 = [
     ['1001', '1',       '<a href=coria/1001_VoorHetMooie.html>                <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Voor het mooie, voor het goede'  ],
     ['0415', '1-2-3',   '<a href=coria/0415_VredeVoorAlleMensen.html>         <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Vrede voor alle mensen'          ],
     ['0421', '1-2-3',   '<a href=coria/0421_JijDieBent.html>                  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Jij die bent'                    ],
-    ['1502', 'alles',   '<a href=coria/1502_ LaatZoJeLichtMaarSchijnen.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Laat zo je licht maar schijnen'  ],
+    ['1502', 'alles',   '<a href=coria/1502_LaatZoJeLichtMaarSchijnen.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Laat zo je licht maar schijnen'  ],
     ['1511', '1-2',     '<a href=coria/1511_HeerWeesMijnKracht.html>          <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Heer, wees mijn kracht'          ]
 ];
           
