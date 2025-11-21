@@ -130,6 +130,7 @@ let dataFarde = [
 [ '0992' ,'<a href=coria/0992_OnEcritSurLesMurs.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'On écrit sur les murs ' ], 
 [ '1001' ,'<a href=coria/1001_VoorHetMooie.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Voor het mooie' ], 
 [ '1105' ,'<a href=coria/1105_SchepperVanHetLeven.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Schepper van het leven' ], 
+[ '1107' ,'<a href=coria/1107_GodZalURedden.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'God zal u redden' ], 
 [ '1147' ,'<a href=coria/1147_EerAanGod.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Eer aan God' ], 
 [ '1153' ,'<a href=coria/1153_LAUDATE_DOMINUM.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Laudate Dominum ' ], 
 [ '1182' ,'<a href=coria/1182_HetLiedVanDeKaarsen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Het lied van de kaarsen' ], 
