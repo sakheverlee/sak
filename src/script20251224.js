@@ -10,7 +10,7 @@ let data20251224 = [
     ['0342', '1-2-3',     '<a href=coria/0342_OmEenMensTeZijnOpAarde.html>   <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Om een mens te zijn'              ],
     ['1954', 'alles',     '<a href=coria/1954_GoedeVaderVanAlleVolken.html>  <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Goede Vader'                      ],
     ['1660', '1-5-6',     '<a href=coria/1660_Kerstzegen.html>               <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Kerstzegen'                       ],    
-    ['1107', '1-2-3-4',   '',                                                                                                                ' ', ' ' , '' , 'God zal u redden'                 ]
+    ['1107', '1-2-3-4',   '<a href=coria/1107_GodZalURedden.html>            <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'God zal u redden'                 ]
 ];
           
 function createTable(data20251224) {
