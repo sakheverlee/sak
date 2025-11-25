@@ -7,7 +7,7 @@ let data20251130 = [
     ['0876', 'alles',     '<a href=coria/0876_UwWoordIsEenLamp.html>         <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Uw woord is een lamp'               ],
     ['0377', 'alles',     '<a href=coria/0377_AllesWatUPrijzenKan.html>      <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Alles wat U prijzen kan'            ],
     ['0192', '1-2',       '<a href=coria/0192_BekommerdOmVrede.html>         <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Bekommerd om vrede'                 ],
-    ['0272', '1-2',       '<a href=coria/missing.html>              <img src="src/missing.jpg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Is droom een droom?'                ],
+    ['0272', '1-2',       '<a href=src/missing.html>              <img src="src/missing.jpg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Is droom een droom?'                ],
     ['0300', 'alles',     '<a href=coria/0300_LuisterHeer.html>              <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Luister, Heer, verhoor ons bidden'  ],
     ['0917', 'alles',     '<a href=coria/0917_OldIrishBlessing.html>         <img src="src/quaver.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Old Irish blessing'                 ]
 ];
