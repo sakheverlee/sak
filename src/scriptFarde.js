@@ -31,7 +31,8 @@ let dataFarde = [
 [ '0247' ,'<a href=coria/0247_KindOnsGeboren.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kind ons geboren' ], 
 [ '0260' ,'<a href=coria/0260_DeGeestDesHeren.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'De geest des heren ' ], 
 [ '0266' ,'<a href=coria/0266_Here_der_Heren.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Here der Heren' ], 
-[ '0284' ,'<a href=coria/0284_JijHebtEenNaam.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Jij hebt een naam' ], 
+[ '0272' ,'<a href=coria/0284_JijHebtEenNaam.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Jij hebt een naam' ], 
+[ '0284' ,'<a href=coria/0272_IsDroomEenDroom.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Is droom een droom' ], 
 [ '0286' ,'<a href=coria/0286_GeprezenZijOnzeGod.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Geprezen zij onze God ' ], 
 [ '0289' ,'<a href=coria/0289_IkZieDeHemelOpengaan.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0289-4_IkZieDeHemelOpengaan.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Ik zie de hemel opengaan ' ],
 [ '0300' ,'<a href=coria/0300_LuisterHeer.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0300-4_LuisterHeer.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Luister Heer ' ],
@@ -105,6 +106,7 @@ let dataFarde = [
 [ '0608' ,'<a href=coria/0608_GezongenGebedsrefrein.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0608-4_GezongenGebedsrefrein.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Gezongen gebedsrefrein' ],
 [ '0609' ,'<a href=coria/0609_Tussenzang_Laten_wij_zijn.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Laten wij zijn als de levende stenen ' ], 
 [ '0633' ,'<a href=coria/0633_HeerOntfermUOverOns.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Heer ontferm U over ons' ], 
+[ '0690' ,'<a href=coria/0690_VredeVoorIedereen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Vrede voor iedereen' ], 
 [ '0704' ,'<a href=coria/0704_LevenInOvervloed.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0704-4_LevenInOvervloed.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Leven in overvloed ' ],
 [ '0710' ,'<a href=coria/0710_BroodOpTafel.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Brood op tafel' ], 
 [ '0731' ,'<a href=coria/0731_ZingVoorDeHeer.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0731-3_ZingVoorDeHeer.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Zing voor de Heer' ], 
@@ -150,12 +152,14 @@ let dataFarde = [
 [ '1502' ,'<a href=coria/1502_LaatZoJeLichtMaarSchijnen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Laat zo je licht maar schijnen' ], 
 [ '1507' ,'<a href=coria/1507_Heilig.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Heilig ' ], 
 [ '1511' ,'<a href=coria/1511_HeerWeesMijnKracht.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_1511-4_HeerWeesMijnKracht_inD.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Heer wees mijn kracht ' ],
+[ '1577' ,'<a href=coria/1577_EffenDeWeg.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Effen de weg' ], 
 [ '1602' ,'<a href=coria/1602_Wees_niet_bevreesd.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Wees niet bevreesd ' ], 
 [ '1606' ,'<a href=coria/1606_God_met_mij_op_alle_wegen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'God met mij op alle wegen' ], 
 [ '1609' ,'<a href=coria/1609_Dank_U_Heer.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Dank u heer' ], 
 [ '1610' ,'<a href=coria/1610_lofgezongen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'lofgezongen' ], 
 [ '1612' ,'<a href=coria/1612_Vrede_van_God.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Vrede van God' ], 
 [ '1643' ,'<a href=coria/1643_Halleluja_GodSchenktOns.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_1643-5_Halleluja_GodSchenktOnsDeToekomst.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Halleluja God schenkt ons' ],
+[ '1653' ,'<a href=coria/1653_AlleluiaBereidDeWegDesHeren.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Alleluia Bereid de weg des Heren' ], 
 [ '1655' ,'<a href=coria/1655_Het_lied_van_samen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Het lied van samen ' ], 
 [ '1658' ,'<a href=coria/1658_HoorDeHerders.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Hoor de herders ' ], 
 [ '1660' ,'<a href=coria/1660_Kerstzegen.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Kerstzegen' ], 
@@ -178,6 +182,7 @@ let dataFarde = [
 [ '1949' ,'<a href=coria/1949_KyriëEleison.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_1949-4_KyriëEleison.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Kyrië eleison' ],
 [ '1951' ,'<a href=coria/1951_Heer_verhoor_ons.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Heer verhoor ons' ], 
 [ '1954' ,'<a href=coria/1954_GoedeVaderVanAlleVolken.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Goede vader van alle volken ' ], 
+[ '1962' ,'<a href=coria/1962_AdventDatIs.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Advent dat is' ] 
 [ '1963' ,'<a href=coria/1963_FluisterDanDatJeGelooft.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Fluister dan dat je gelooft' ] 
 ];
 
