@@ -182,7 +182,7 @@ let dataFarde = [
 [ '1949' ,'<a href=coria/1949_KyriëEleison.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_1949-4_KyriëEleison.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Kyrië eleison' ],
 [ '1951' ,'<a href=coria/1951_Heer_verhoor_ons.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Heer verhoor ons' ], 
 [ '1954' ,'<a href=coria/1954_GoedeVaderVanAlleVolken.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Goede vader van alle volken ' ], 
-[ '1962' ,'<a href=coria/1962_AdventDatIs.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Advent dat is' ] 
+[ '1962' ,'<a href=coria/1962_AdventDatIs.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Advent dat is' ], 
 [ '1963' ,'<a href=coria/1963_FluisterDanDatJeGelooft.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Fluister dan dat je gelooft' ] 
 ];
 
