@@ -1,7 +1,7 @@
 let data20251221 = [
     ['nummer', 'strofen',       'coria ',                                                                                          'pdf' , 'web' , 'mp3' , 'titel'                                  ],
     ['0872', '1-2-3-4-5', '<a href=coria/0872_WijSpeurenInHetDuister.html>       <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Wij speuren in het duister'      ],
-    ['1182', '3',         '<a href=coria/1182_HetLiedVanDeKaarsen.html>          <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Het lied van de kaarsen'         ],
+    ['1182', '4',         '<a href=coria/1182_HetLiedVanDeKaarsen.html>          <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Het lied van de kaarsen'         ],
     ['0349', '6-7-8',     '<a href=coria/0349_LichtInOnzeOgen.html>              <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Licht in onze ogen'              ],
     ['0421', '1-2-3',     '<a href=coria/0421_JijDieBent.html>                   <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Jij, die bent'                   ],
     ['0005', 'alles',     '<a href=src/missing.html>                             <img src="src/missing.jpg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Laat uw liefde'                  ],
