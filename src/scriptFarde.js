@@ -1,4 +1,3 @@
-
 let dataFarde = [
 ['nummer',  'coria '                                                                                                    , 'pdf'                                                                                                          , 'web'                                                                                                              , 'mp3'                                                                                      , 'titel'                           ],
 [ '0001' ,'<a href=coria/0001_WieGodsRechteWegenGaat.html>     <img src="src/quaver.svg"  width="20" height="20"></img></a>', '<a href=pdf/SAK_0001-3_WieGodsRechteWegenGaat.pdf>     <img src="src/Icon_PDF.png"  width="20" height="20"></a>'  , '<a href=https://www.youtube.com/watch?v=v_ryzBavlQA> <img src="src/world-wide-web.png" width="20" height="20"> </a>'   , ''                                                                                         , 'Wie Gods rechte wegen gaat'       ],
@@ -69,8 +68,8 @@ let dataFarde = [
 [ '0391' ,'<a href=coria/0391_WijZoekenU.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0391-4_WijZoekenU.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Wij zoeken U ' ],
 [ '0392' ,'<a href=coria/0392_SoliDeoGloria.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' <a href=pdf/SAK_0932-4_SoliDeoGloria.pdf><img src="src/Icon_PDF.png"width="20" height="20"></a>','' ,'', 'Soli Deo Gloria ' ], 
 [ '0393' ,'<a href=coria/0393_Mens_voor_de_mensen_zijn.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Mens voor de mensen zijn ' ], 
+[ '0394' ,'<a href=coria/0394_BlijfNietStaren.html> <img src="src/quaver.svg"  width="20" height="20"></img></a>', ''  , '' , '' , 'Blijf niet staren' ],
 [ '0395' ,'<a href=coria/0395_ChristusOnzeHeerVerrees.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Christus onze Heer verrees' ], 
-[ '0397' ,'<a href=coria/0397_BlijfNietStaren.html>               <img src="src/quaver.svg"  width="20" height="20"></img></a>', ''                                                                                                                 , ''                                                                                                                 , ''                                                                                         , 'Blijf niet staren'                       ],
 [ '0398' ,'<a href=coria/0398_ForTheBeautyOfTheEarth.html><img src="src/quaver.svg"width="20" height="20"></img></a>','<a href=pdf/SAK_0398-4_ForTheBeautyOfTheEarth.pdf><img src="src/Icon_PDF.png"width="20" height="20"></img> </a>','<a href=https://www.koorpartij-oefening.nl/oefenbestand-for-the-beauty-of-the-earth.html> <img src="src/world-wide-web.png" width="20" height="20"></img> </a>' ,'', 'For the beauty of the earth (John Rutter)' ], 
 [ '0402' ,'<a href=coria/0402_WeesHierAanwezig.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Wees hier aanwezig ' ], 
 [ '0404' ,'<a href=coria/0404_DatUwWoordenInOnsBranden.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Dat uw woorden in ons branden' ], 
@@ -188,7 +187,7 @@ let dataFarde = [
 [ '1954' ,'<a href=coria/1954_GoedeVaderVanAlleVolken.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Goede vader van alle volken ' ], 
 [ '1962' ,'<a href=coria/1962_AdventDatIs.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Advent dat is' ], 
 [ '1963' ,'<a href=coria/1963_FluisterDanDatJeGelooft.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Fluister dan dat je gelooft' ],
-[ '    ' ,' ',' ',' ' ,' ', ' ' ] 
+[ '    ' ,'                                                                                                          ',' ','' ,'', '                           ' ] 
 ];
 
 
