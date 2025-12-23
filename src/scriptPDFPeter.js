@@ -1,0 +1,85 @@
+let dataPDFPeter = [
+['nummer','pdf', 'titel'],
+['0005','<a href=PDF_Peter/0005_Laatuwliefde.pdf>                                      <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Laatuwliefde.pdf                                    '],                  
+['0015','<a href=PDF_Peter/0015_Heilig.pdf>                                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Heilig.pdf                                          '],            
+['0035','<a href=PDF_Peter/0035_KwaadenZorgen.pdf>                                     <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'KwaadenZorgen.pdf                                   '],                   
+['0099','<a href=PDF_Peter/0099_Odeaandevreugde.pdf>                                   <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Odeaandevreugde.pdf                                 '],                     
+['0102','<a href=PDF_Peter/0102_HeerGod_en_HeerWijvergeven.pdf>                        <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'HeerGod_en_HeerWijvergeven.pdf                     '],          
+['0140','<a href=PDF_Peter/0140_DaPacemDomine.pdf>                                     <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'DaPacemDomine.pdf                                   '],                   
+['0163','<a href=PDF_Peter/0163_Waarmensensaaminliefdeleven.pdf>                       <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Waarmensensaaminliefdeleven.pdf                     '],           
+['0166','<a href=PDF_Peter/0166_EertGoddieonzevaderis.pdf>                             <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'EertGoddieonzevaderis.pdf                           '],     
+['0167','<a href=PDF_Peter/0167_Sanctus.pdf>                                           <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Sanctus.pdf                                        '],             
+['0169','<a href=PDF_Peter/0169_Donalapace.pdf>                                        <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Donalapace.pdf                                      '],                
+['0171','<a href=PDF_Peter/0171_Ikwensjevrede.pdf>                                     <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Ikwensjevrede.pdf                                   '],                   
+['0266','<a href=PDF_Peter/0266_Heerontfermuoverons.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Heerontfermuoverons.pdf                             '],   
+['0297','<a href=PDF_Peter/0297_Zending.pdf>                                           <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Zending.pdf                                         '],             
+['0312','<a href=PDF_Peter/0312_Sjaloom.pdf>                                           <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Sjaloom.pdf                                         '],             
+['0344','<a href=PDF_Peter/0344_Prijzenwijdeheer-AanGodkomtdeloftoe-EerbiedigGo.pdf>   <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Prijzenwijdeheer-AanGodkomtdeloftoe-EerbiedigGo.pdf '],
+['0349','<a href=PDF_Peter/0349_Lichtinonzeogen.pdf>                                   <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Lichtinonzeogen.pdf                                 '],                      
+['0355','<a href=PDF_Peter/0355_Gegroetjijdiehierkomtomlicht.pdf>                      <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Gegroetjijdiehierkomtomlicht.pdf                    '],             
+['0372','<a href=PDF_Peter/0372_Nkembo.pdf>                                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Nkembo.pdf                                          '],             
+['0375','<a href=PDF_Peter/0375_GrosserGottwirlobendich.pdf>                           <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'GrosserGottwirlobendich.pdf                         '],        
+['0376','<a href=PDF_Peter/0376_DonaNobisPacem.pdf>                                    <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'DonaNobisPacem.pdf                                  '],                     
+['0381','<a href=PDF_Peter/0381_ThumaMina.pdf>                                         <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'ThumaMina.pdf                                       '],                
+['0384','<a href=PDF_Peter/0384_Kyrie.pdf>                                             <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Kyrie.pdf                                           '],            
+['0396','<a href=PDF_Peter/0396_Wijkunnendeogennietsluiten.pdf>                        <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Wijkunnendeogennietsluiten.pdf                      '],           
+['0412','<a href=PDF_Peter/0412_Waarmensenelkaardragen.pdf>                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Waarmensenelkaardragen.pdf                          '],       
+['0415','<a href=PDF_Peter/0415_Vredevoorallemensen.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Vredevoorallemensen.pdf                             '],    
+['0418','<a href=PDF_Peter/0418_Vredevoorallemensen.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Vredevoorallemensen.pdf                             '],    
+['0421','<a href=PDF_Peter/0421_Jijdiebent.pdf>                                        <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Jijdiebent.pdf                                      '],                 
+['0480','<a href=PDF_Peter/0480_Kyrie.pdf>                                             <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Kyrie.pdf                                           '],            
+['0502','<a href=PDF_Peter/0502_Alwiedolendinhetdonker.pdf>                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Alwiedolendinhetdonker.pdf                          '],       
+['0515','<a href=PDF_Peter/0515_Bekering.pdf>                                          <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Bekering.pdf                                        '],               
+['0539','<a href=PDF_Peter/0539_Heilig.pdf>                                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Heilig.pdf                                          '],             
+['0540','<a href=PDF_Peter/0540_GebedomVergeving.pdf>                                  <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'GebedomVergeving.pdf                                '], 
+['0549','<a href=PDF_Peter/0549_LaudateOmnesGentes.pdf>                                <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'LaudateOmnesGentes.pdf                              '],   
+['0560','<a href=PDF_Peter/0560_AlHeefthijonsverlaten.pdf>                             <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'AlHeefthijonsverlaten.pdf                           '],      
+['0587','<a href=PDF_Peter/0587_Eeraangodindenhoge.pdf>                                <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Eeraangodindenhoge.pdf                              '],   
+['0609','<a href=PDF_Peter/0609_Latenwijzijnalsdelevendestenen.pdf>                    <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Latenwijzijnalsdelevendestenen.pdf                  '],               
+['0690','<a href=PDF_Peter/0690_Vredevooriedereen.pdf>                                 <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Vredevooriedereen.pdf                               '],  
+['0792','<a href=PDF_Peter/0792_Gadanopweg.pdf>                                        <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Gadanopweg.pdf                                      '],                 
+['0872','<a href=PDF_Peter/0872_Wijspeureninhetduister.pdf>                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Wijspeureninhetduister.pdf                          '],       
+['0875','<a href=PDF_Peter/0875_IkhebmijnharttotUgeheven.pdf>                          <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'IkhebmijnharttotUgeheven.pdf                        '],         
+['1000','<a href=PDF_Peter/1000_Ikbelijdmijnschulden.pdf>                              <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Ikbelijdmijnschulden.pdf                            '],     
+['1147','<a href=PDF_Peter/1147_EeraanGod.pdf>                                         <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'EeraanGod.pdf                                       '],                
+['1153','<a href=PDF_Peter/1153_LaudateDominum.pdf>                                    <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'LaudateDominum.pdf                                  '],                     
+['1419','<a href=PDF_Peter/1419_Nadateturbe.pdf>                                       <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Nadateturbe.pdf                                     '],                  
+['1484','<a href=PDF_Peter/1484_Opdatuwdroom.pdf>                                      <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Opdatuwdroom.pdf                                    '],                   
+['1485','<a href=PDF_Peter/1485_Komluisternaarmijnwoorden.pdf>                         <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Komluisternaarmijnwoorden.pdf                       '],          
+['1486','<a href=PDF_Peter/1486_KomHeerJezus.pdf>                                      <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'KomHeerJezus.pdf                                    '],                   
+['1507','<a href=PDF_Peter/1507_Heilig.pdf>                                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Heilig.pdf                                          '],             
+['1606','<a href=PDF_Peter/1606_Godmetmijopallewegen.pdf>                              <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Godmetmijopallewegen.pdf                            '],     
+['1609','<a href=PDF_Peter/1609_DankUheer.pdf>                                         <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'DankUheer.pdf                                       '],                
+['1612','<a href=PDF_Peter/1612_VredevanGod.pdf>                                       <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'VredevanGod.pdf                                     '],                  
+['1656','<a href=PDF_Peter/1656_Watzoudewereldanderszijn.pdf>                          <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Watzoudewereldanderszijn.pdf                        '],         
+['1702','<a href=PDF_Peter/1702_SAK_1702-4_AlsInTBrood.pdf>                            <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'SAK_1702-4_AlsInTBrood.pdf                          '],       
+['1710','<a href=PDF_Peter/1710_SAK_1710-4_MijnToeverlaat.pdf>                         <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'SAK_1710-4_MijnToeverlaat.pdf                       '],          
+['1735','<a href=PDF_Peter/1735_HetHemelrijkVersie1.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'HetHemelrijkVersie1.pdf                             '],    
+['1735','<a href=PDF_Peter/1735_HetHemelrijkVersie2.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'HetHemelrijkVersie2.pdf                             '],    
+['1799','<a href=PDF_Peter/1799_Toononsuwzoon.pdf>                                     <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Toononsuwzoon.pdf                                   '],                    
+['1801','<a href=PDF_Peter/1801_SAK_1801-4_Gelukkig.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'SAK_1801-4_Gelukkig.pdf                             '],    
+['1802','<a href=PDF_Peter/1802_ElHimnodelapaz.pdf>                                    <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'ElHimnodelapaz.pdf                                  '],                     
+['1876','<a href=PDF_Peter/1876_Wordenwevrij.pdf>                                      <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Wordenwevrij.pdf                                    '],                   
+['1906','<a href=PDF_Peter/1906_Alleluia.pdf>                                          <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Alleluia.pdf                                        '],               
+['1951','<a href=PDF_Peter/1951_Heerverhoorons.pdf>                                    <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Heerverhoorons.pdf                                  '],                     
+['1954','<a href=PDF_Peter/1954_Voorbedeenacclamatie.pdf>                              <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Voorbedeenacclamatie.pdf                            '],     
+['1955','<a href=PDF_Peter/1955_Voorbedeenacclamatie.pdf>                              <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'Voorbedeenacclamatie.pdf                            '],     
+['9000','<a href=PDF_Peter/9000_LocusIste.pdf>                                         <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'LocusIste.pdf                                       '],                
+['9901','<a href=PDF_Peter/Nieuw_Kerst_DoedieRosevanJericho.pdf>                       <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'_Kerst_DoedieRosevanJericho.pdf                     '],            
+['9902','<a href=PDF_Peter/Nieuw_Kerst_Kerstlied.pdf>                                  <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'_Kerst_Kerstlied.pdf                                '], 
+['9903','<a href=PDF_Peter/Nieuw_Kerst_Oblijdenacht.pdf>                               <img src="src/Icon_PDF.png"  width="20" height="20"></a>' ,'_Kerst_Oblijdenacht.pdf                             '], 
+['    ','                                                                                                                            ' ] 
+];
+
+function createTable(dataPDFPeter) {
+  const [headings, ...rows] = dataPDFPeter;
+      
+    return `
+          <table>
+            <thead>${getCells(headings, 'th')}</thead>
+            <tbody>${rows.map(getRow).join('')}</tbody>
+          </table>
+    `;
+}
+
+document.body.insertAdjacentHTML('beforeend', createTable(dataPDFPeter));
