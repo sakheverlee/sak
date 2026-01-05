@@ -1,4 +1,4 @@
-let dataMP3Peter300 = [
+let dataMP3Peter350 = [
     ['nummer',  'mp3' , 'titel' ],
     ['ZJ_351', '<a href=MP3_Peter/ZJ_351-De_koning_van_de_vrede.mp3>                        <img src="src/mp3.png" width="20" height="20"> </a>','ZJ_351-De_koning_van_de_vrede'                                ],
     ['ZJ_352', '<a href=MP3_Peter/ZJ_352-Naam_van_Jezus_die_ten_dode.mp3>                   <img src="src/mp3.png" width="20" height="20"> </a>','ZJ_352-Naam_van_Jezus_die_ten_dode'                           ],
@@ -36,8 +36,8 @@ let dataMP3Peter300 = [
     [' ',  ' ' , ' ' ]
 ];
 
-function createTable(dataMP3Peter300) {
-  const [headings, ...rows] = dataMP3Peter300;
+function createTable(dataMP3Peter350) {
+  const [headings, ...rows] = dataMP3Peter350;
       
     return `
           <table>
@@ -47,4 +47,4 @@ function createTable(dataMP3Peter300) {
     `;
 }
 
-document.body.insertAdjacentHTML('beforeend', createTable(dataMP3Peter300));
+document.body.insertAdjacentHTML('beforeend', createTable(dataMP3Peter350));
