@@ -10,6 +10,7 @@ let dataFarde0700 = [
 [ '0792' ,'<a href=coria/0792_Ga_dan_op_weg.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Ga dan op weg' ], 
 [ '0793' ,'<a href=coria/0793_STA_OP_VOLK_VAN_GOD.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Sta op volk van god' ], 
 [ '0795' ,'<a href=coria/0795_GaNaarDeStraten.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Ga naar de straten ' ], 
+[ '0797' ,'<a href=coria/0797_VonkenVanLiefde.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Vonken van Liefde ' ], 
 [ '    ' ,'                                                                                                          ',' ','' ,'', '                           ' ] 
 ];
 
