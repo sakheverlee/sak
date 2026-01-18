@@ -2,7 +2,7 @@
 
 let data20260201 = [
     ['nummer', 'strofen',       'coria ',                                                                                          'pdf' , 'web' , 'mp3' , 'titel'                               ],
-    ['1513', '2-3-4',     '<a href=src/missing.html>                             <img src="src/missing.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Welkom' ],
+    ['1513', '2-3-4',     '<a href=src/1513_Welkom.html>                         <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Welkom' ],
     ['1587', 'alles',     '<a href=src/missing.html>                             <img src="src/missing.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Telkens weer'                       ],
     ['1147', '1-2',       '<a href=coria/1147_EerAanGod.html>                    <img src="src/quaver.svg"  width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Eer aan God'       ],
     ['1533', '1-2',       '<a href=src/missing.html>                             <img src="src/missing.svg" width="20" height="20"></img> </a>',  ' ', ' ' , '' , 'Steek de lamp aan' ],
