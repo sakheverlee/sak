@@ -9,6 +9,7 @@ let dataFarde0100 = [
 [ '0169' ,'<a href=coria/0169_DonaLaPace.html><img src="src/quaver.svg"width="20" height="20"></img></a>','','' ,'', 'Adoraçao dos pastores' ],
 [ '0178' ,'<a href=coria/0178_AdoraçaoDosPastores.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Dona la pace ' ],
 [ '0192' ,'<a href=coria/0192_BekommerdOmVrede.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Bekommerd om vrede ' ], 
+[ '0195' ,'<a href=coria/0195_HoeVerTeGaan.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Hoe ver te gaan ' ], 
 [ '0197' ,'<a href=coria/0197_Alta_Trinità_beata.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'Alta Trinità beata ' ], 
 [ '0198' ,'<a href=coria/0198_DeSteppe.html><img src="src/quaver.svg"width="20" height="20"></img></a>',' ','' ,'', 'De steppe zal bloeien ' ], 
 [ '    ' ,'                                                                                                          ',' ','' ,'', '                           ' ] 
