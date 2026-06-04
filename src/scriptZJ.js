@@ -5,6 +5,7 @@ let dataZJ = [
     ['ZJ 331',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=Kkz_14GR_D8> <img src="src/world-wide-web.png" width="20" height="20"> </a>', '' , 'Jezus diep in de woestijn'       ],
     ['ZJ 331',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=kjbINUAQsuo> <img src="src/world-wide-web.png" width="20" height="20"> </a>', '' , 'De koning van de vrede'          ],
     ['ZJ 412',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=Uvhc6AMWaTE> <img src="src/world-wide-web.png" width="20" height="20"> </a>', '' , 'Al heeft hij ons verlaten'       ],
+    ['ZJ 813',  ' ', ' ' , '<a href=https://www.youtube.com/watch?v=fpcU-KGKGK8> <img src="src/world-wide-web.png" width="20" height="20"> </a>', '' , 'Wat God doet dat is welgedaan'   ],
     ['ZJ 936',  ' ', ' ' , '<a https://www.youtube.com/watch?v=v_ryzBavlQA>      <img src="src/world-wide-web.png" width="20" height="20"> </a>', '' , 'Wie Gods rechte wegen gaat'      ]
 ];
           
